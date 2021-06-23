@@ -1,5 +1,5 @@
 <p align="center">
-    <h1 align="center">Just the Docs</h1>
+    <h1 align="center">Just the Docs: Russian search edition</h1>
     <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
 
 
